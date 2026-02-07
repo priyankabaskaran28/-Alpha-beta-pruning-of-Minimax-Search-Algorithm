@@ -182,5 +182,5 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 
 <hr>
 <h2>Result</h2>
-
+Thus, we have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game using Python.
 
